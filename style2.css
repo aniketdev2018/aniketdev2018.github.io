@@ -52,8 +52,8 @@ img{
 }
 /* #creater:hover {
 	/*text-align: right;*/
-	display:flex;
-	flex-wrap:wrap;
+/* 	display:flex; */
+/* 	flex-wrap:wrap; */
 	justify-content:center;
 	/*text-transform: inherit;*/
 	color: #AA4139;
